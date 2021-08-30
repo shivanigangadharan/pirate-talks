@@ -1,0 +1,49 @@
+body{
+    font-family: 'Metal Mania', cursive;
+    background-image: url('./prt.jpg');
+    background-size: cover;
+    /* background-position: center; */
+    padding: 4% 0px 0px 5%;
+}
+.navbar{
+    text-align: left;
+    font-weight: 600;
+    font-size: 3rem;
+    color: white;
+}
+
+.textbox{
+    /* margin: 3%; */
+    font-size: 1.4rem;
+    height: 100px;
+    width: 600px;
+    font-style: italic;
+    font-family: 'Metal Mania', cursive;
+    padding: 2%;
+    color: white;
+    margin: 3% 0px 3% 0px;
+    font-weight: 400;
+    border: none;
+    border-left: 10px solid grey;
+    background: none;
+    outline: none;
+}
+button{
+
+    padding: 15px 25px 15px 25px;
+    font-size: 1.5rem;
+    background: none;
+    color: lightgray;
+    border: none;
+    font-family: 'Metal Mania', cursive;
+    border-top: 10px double lightgray;
+    border-bottom: 10px double lightgray;
+}
+button:hover{
+    cursor: pointer;
+}
+.output{
+    width: 600px;
+    height: 100px;
+
+}
